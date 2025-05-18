@@ -36,3 +36,8 @@ This project was completed for Zuber, a fictional ride-sharing company intereste
 - Form partnerships with venues located in consistently high-demand areas
 - Develop dynamic pricing models based on peak-hour insights
 
+## Author
+
+Heather Marie Culligan  
+[LinkedIn](https://linkedin.com/in/hmc2025)  
+[GitHub](https://github.com/hmc9898)
